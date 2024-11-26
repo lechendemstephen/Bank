@@ -1,0 +1,31 @@
+
+step 1 - Create a BankAccount class with attributes account_number, holder_name and balance 
+step 2 - create method to create an account with holder_name, holder_email, holder_password in a dictionary
+step 3 - create a method to deposit money and add the deposited amount to the account_balance against the account_number
+step 4 - create a withdrawal method to with draw from the account if they entered the right pin and also the right 
+          account number,  also check if they have an amount greater than withdrawal amount
+
+
+
+
+
+Accounts = {
+        name: {
+          account_number: 123334444, 
+          balance: 20444043, 
+          name: 'stephen Lechendem', 
+          Age: 29, 
+          Next_of_kin: 'Nkeng Clarence'
+          password: 'thisisapassword'
+        }, 
+
+        name: {
+          account_number: 123334444, 
+          balance: 20444043, 
+          name: 'stephen Lechendem', 
+          Age: 29, 
+          Next_of_kin: 'Nkeng Clarence',
+          password:'thisiS'
+        }, 
+
+}
